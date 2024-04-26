@@ -33,7 +33,7 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
+<img align="right" width="88" src="https://pic.netbian.com/uploads/allimg/240325/201846-171136912696d8.jpg" />
 
 <p>&emsp;&emsp;大家好，我是小孙同学。</p>
 <p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
